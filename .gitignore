@@ -1,0 +1,13 @@
+# Model directories
+model_stage1/
+model_stage2/
+
+# Training outputs
+results/
+results_stage1/
+results_stage2/
+logs/
+logs_stage1/
+logs_stage2/
+
+
